@@ -1,6 +1,0 @@
-{
-  "name": "Sunny Travels",
-  "description": "Agencia de viajes en México especializada en experiencias y artículos de viaje por Argentina, Brasil, España, Japón, Canadá, Portugal y la República de Corea.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
